@@ -11,12 +11,6 @@ This project is ideal for:
 - Practicing data preprocessing and EDA
 - Understanding classification problems
 
-## 📂 Repository Structure
-
-Titanic-Survival-Prediction/
-├── Titanic_survival_pred.ipynb # Main Jupyter notebook
-├── README.md # Project documentation
-
 ## ⚙️ Technologies Used
 
 - Python
