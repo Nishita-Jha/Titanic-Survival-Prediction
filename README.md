@@ -56,13 +56,13 @@ Titanic-Survival-Prediction/
 ## ▶️ How to Run the Project
 
 1. **Clone the repository**
-    git clone https://github.com/Nishita-Jha/Titanic-Survival-Prediction.git
-    cd Titanic-Survival-Prediction
+    - git clone https://github.com/Nishita-Jha/Titanic-Survival-Prediction.git
+    - cd Titanic-Survival-Prediction
 
 2. **Install required libraries**
-    pip install pandas numpy matplotlib seaborn scikit-learn
+    - pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. **Run the notebook**
-    jupyter notebook Titanic_survival_pred.ipynb
+    - jupyter notebook Titanic_survival_pred.ipynb
 
-⭐ If you found this project helpful, feel free to star the repository !!
+**⭐ If you found this project helpful, feel free to star the repository !!**
