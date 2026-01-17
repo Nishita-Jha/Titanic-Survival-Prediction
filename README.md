@@ -29,6 +29,8 @@ This project is ideal for:
 Titanic-Survival-Prediction/
 ├── Titanic_survival_pred.ipynb # Main Jupyter notebook
 ├── README.md # Project documentation
+├── test.csv
+├── train.csv
 ```
 ---
 
