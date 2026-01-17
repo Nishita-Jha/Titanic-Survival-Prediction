@@ -1,9 +1,9 @@
 # Titanic Survival Prediction 🚢
-
 This project predicts whether a passenger survived the Titanic disaster using Machine Learning techniques in Python. It is based on the famous Titanic dataset and demonstrates a complete ML workflow including data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
-## 📌 Project Description
+---
 
+## 📌 Project Description
 The sinking of the RMS Titanic in 1912 is one of the most well-known tragedies in history. Using passenger data such as age, gender, ticket class, and fare, this project builds a predictive model to determine survival outcomes.
 
 This project is ideal for:
@@ -11,8 +11,9 @@ This project is ideal for:
 - Practicing data preprocessing and EDA
 - Understanding classification problems
 
-## ⚙️ Technologies Used
+---
 
+## ⚙️ Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas
@@ -20,6 +21,16 @@ This project is ideal for:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+---
+
+## 📂 Repository Structure
+```
+Titanic-Survival-Prediction/
+├── Titanic_survival_pred.ipynb # Main Jupyter notebook
+├── README.md # Project documentation
+```
+---
 
 ## 🧪 Workflow
 
@@ -47,16 +58,30 @@ This project is ideal for:
 7. **Prediction**
    - Predict survival on unseen test data
 
+---
+
 ## ▶️ How to Run the Project
-
 1. **Clone the repository**
-    - git clone https://github.com/Nishita-Jha/Titanic-Survival-Prediction.git
-    - cd Titanic-Survival-Prediction
-
+   ```bash
+   git clone https://github.com/Nishita-Jha/Titanic-Survival-Prediction.git
+   cd Titanic-Survival-Prediction
+   ```
 2. **Install required libraries**
-    - pip install pandas numpy matplotlib seaborn scikit-learn
+    ```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn
+    ```
 
-3. **Run the notebook**
+5. **Run the notebook**
+    ```bash
     - jupyter notebook Titanic_survival_pred.ipynb
+    ```
+---
 
+### 📈 Results
+- Identified important features affecting survival such as gender and passenger class
+- Achieved good accuracy using classification models
+- Generated survival predictions for test data
+(Exact accuracy may vary depending on model and preprocessing choices.)
+
+---
 **⭐ If you found this project helpful, feel free to star the repository !!**
